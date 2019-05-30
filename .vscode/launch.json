@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Lab1_dgriego125",
+            "request": "launch",
+            "mainClass": "Lab1_dgriego125"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - hello",
             "request": "launch",
             "mainClass": "hello"
