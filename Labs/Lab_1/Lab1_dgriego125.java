@@ -14,6 +14,6 @@ public class Lab1_dgriego125 {
         System.out.printf("The addition result is : %.1f\n", addResult);
         System.out.printf("The subtraction result is : %.1f\n", subResult);
         System.out.printf("The multiply result is : %.1f\n", multResult);
-        System.out.printf("The division result is : %.2f", divResult);
+        System.out.printf("The division result is : %.2f\n", divResult);
     }
 }
