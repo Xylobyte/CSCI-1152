@@ -2,15 +2,66 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Lab1_dgriego125",
+            "name": "CodeLens (Launch) - Lab2_dgriego125",
             "request": "launch",
-            "mainClass": "Lab1_dgriego125"
+            "mainClass": "Lab2_dgriego125",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayAvg",
+            "request": "launch",
+            "mainClass": "ArrayAvg",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fact",
+            "request": "launch",
+            "mainClass": "fact",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VorC",
+            "request": "launch",
+            "mainClass": "VorC",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sqarea",
+            "request": "launch",
+            "mainClass": "sqarea",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - kmtomi",
+            "request": "launch",
+            "mainClass": "kmtomi",
+            "projectName": "CSCI-1152_bace5239"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - hello",
             "request": "launch",
-            "mainClass": "hello"
+            "mainClass": "hello",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab1_dgriego125",
+            "request": "launch",
+            "mainClass": "Lab1_dgriego125",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "CSCI-1152_bace5239"
         }
     ]
 }
