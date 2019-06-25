@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Box",
+            "request": "launch",
+            "mainClass": "Box",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Lab2_dgriego125",
             "request": "launch",
             "mainClass": "Lab2_dgriego125",
