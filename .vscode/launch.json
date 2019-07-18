@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - NestedParens",
+            "request": "launch",
+            "mainClass": "NestedParens",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "TowerOfHanoi",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "CSCI-1152_bace5239"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ZeroDiv",
             "request": "launch",
             "mainClass": "ZeroDiv",
